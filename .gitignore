@@ -1,0 +1,13 @@
+# Segredos e credenciais (nunca versionar)
+.env
+credentials.json
+token.json
+
+# Dados locais
+*.db
+*.sqlite3
+
+# Python
+.venv/
+__pycache__/
+*.pyc
